@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+const KPrimaryColor = Color(0xff00295E);
+const SecendryColor = Color(0xffE6ECF4);
+const KMessageCollection = 'messages';
+const KUserCollection = 'users';
+const KMessage = 'message';
+const KReceiver = 'receiver';
+const KSender = 'sender';
+const KCreatedAt = 'createdAt';
+const KSenderEmail='senderEmail';
